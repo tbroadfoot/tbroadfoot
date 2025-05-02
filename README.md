@@ -1,4 +1,4 @@
-# Dr. Thomas J. Broadfoot  –  VLSI / EDA / TRAP
+# Dr. Thomas J Broadfoot  –  VLSI / EDA / TRAP
 
 Hi 👋 I’m **Thomas Broadfoot**, an electrical engineer turned tool-smith who loves turning *ideas into silicon*—and writing the CAD that makes it painless.
 
